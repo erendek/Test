@@ -6,4 +6,4 @@
 
 [This is a link](google.com) 
 
-![Rush Rhees library](rush rhees.jpeg)
+![Rush Rhees library](rush_rhees.jpeg)
