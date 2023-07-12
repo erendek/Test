@@ -4,6 +4,6 @@
 
 *This is italic*
 
-[This is a link](google.com) 
+[This is a link](yahoo.com) 
 
 ![Rush Rhees library](rush_rhees.jpeg)
